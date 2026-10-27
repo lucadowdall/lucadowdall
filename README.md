@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Luca Dowdall 👋
 
-<!--
-**lucadowdall/lucadowdall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Civil Engineering Student at Bucknell University (Graduating Dec 2026)**  
+Specializing in Field Operations, Structural Analysis, and Construction Project Management.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ About Me
+- 🎓 **Education:** B.S. in Civil Engineering, Bucknell University
+- 📐 **Technical Expertise:** Building Facade Inspections, Construction Documentation, Revit 3D Modeling, Structural Analysis
+- 🌊 **Senior Capstone:** Wastewater Treatment Plant Design & Engineering Integration
+- 🎯 **Career Focus:** Field Engineering, Site Management, and Project Engineering
+
+---
+
+### 🌐 Professional Web Matrix
+- 🔗 **Official Portfolio:** [luca-dowdall-engineering.carrd.co](https://luca-dowdall-engineering.carrd.co/)
+- 👤 **About.me Profile:** [about.me/lucadowdall](https://about.me/lucadowdall)
+- 📝 **Medium Articles:** [Read my Field Operations Insights](https://medium.com/@lucadowdall/civil-engineering-field-operations-preparing-for-modern-construction-management-8ca0470ccce1)
+
+---
+*Feel free to reach out via my portfolio for professional inquiries or collaborative project opportunities.*
